@@ -10,6 +10,9 @@ This space is to list the links of most popular and useful Javascript (JS) frame
 * [JQuery](https://jquery.com/) - The Write Less, Do More, JavaScript Library.
 
 
+### Library from me:
+
+* [allJS](http://all.js.org) - A JS library to create, generate, modify, identify, verify and trim stuff.
 
 Note: Titles and Taglines copyright belongs to respective frameworks or libraries.
 
