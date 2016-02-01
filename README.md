@@ -2,12 +2,13 @@
 This space is to list the links of most popular and useful Javascript (JS) frameworks
 
 
-* [AngularJS](https://angularjs.org/) - HTML enhanced for web apps!
-* [NodeJS](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* [ReactJS](https://facebook.github.io/react/) - A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES.
-* [BackboneJS](http://backbonejs.org/) - Backbone.js gives structure to web applications.
-* [EmberJS](http://emberjs.com/) - A framework for creating ambitious web applications.
-* [JQuery](https://jquery.com/) - The Write Less, Do More, JavaScript Library.
+* [angular.js](https://angularjs.org/) - HTML enhanced for web apps!
+* [node.js](https://nodejs.org/en/) - Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+* [react.js](https://facebook.github.io/react/) - A JAVASCRIPT LIBRARY FOR BUILDING USER INTERFACES.
+* [backbone.js](http://backbonejs.org/) - Backbone.js gives structure to web applications.
+* [ember.js](http://emberjs.com/) - A framework for creating ambitious web applications.
+* [jquery.js](https://jquery.com/) - The Write Less, Do More, JavaScript Library.
+* [vue.js](http://vuejs.org/) - Reactive Components for Modern Web Interfaces.
 
 
 ### Library from me:
