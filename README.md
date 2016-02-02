@@ -1,4 +1,4 @@
-# list-of-awesome-Javascript-frameworks-and-libraries
+# awesome-Javascript-frameworks-and-libraries
 This space is to list the links of most popular and useful Javascript (JS) frameworks
 
 
