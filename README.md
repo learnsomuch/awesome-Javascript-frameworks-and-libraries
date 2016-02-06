@@ -9,6 +9,7 @@ This space is to list the links of most popular and useful Javascript (JS) frame
 * [ember.js](http://emberjs.com/) - A framework for creating ambitious web applications.
 * [jquery.js](https://jquery.com/) - The Write Less, Do More, JavaScript Library.
 * [vue.js](http://vuejs.org/) - Reactive Components for Modern Web Interfaces.
+* [MeteorJS](https://www.meteor.com/) - Meteor is a full stack platform for web, mobile, and desktop.
 
 
 ### Library from me:
